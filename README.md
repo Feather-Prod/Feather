@@ -39,7 +39,7 @@
   <p align="center">
     An free and open-source optimization modpack for Minecraft
     <br />
-    <a href="https://github.com/Feather-Prod/Feather"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Feather-Prod/Feather/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Feather-Prod/Feather">View Demo</a>
